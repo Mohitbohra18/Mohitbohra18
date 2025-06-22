@@ -1,9 +1,9 @@
 <!-- Typing SVG -->
-<p align="center">
+<p >
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+MOHIT+BOHRA.;
       Welcome+to+my+GitHub+profile!;
-      Building+tech+for+real-world+impact.&center=false&size=30&color=F7A8B8" />
+      Building+tech+for+real-world+impact.&center=true&size=30&color=F7A8B8" />
   </a>
 </p>
 
