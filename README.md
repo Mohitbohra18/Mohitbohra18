@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,Techies!👋;I'm+MOHIT+BOHRA..;This+is+my+profile!&center=true&size=30"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+MOHIT+BOHRA.;Welcome+to+my+GitHub+profile!;Building+tech+for+real-world+impact.&center=true&size=30&color=F7A8B8""> 
   </a>
 
 # 👋 Hi there, I'm Mohit Bohra!
