@@ -60,7 +60,7 @@ I'm a passionate software developer from India who loves building cool stuff and
 
 <img align="left" src="https://profile-counter.glitch.me/Mohitbohra18/count.svg?" />
 
----<br>
+<br>
 
 ## 📫 Connect With Me
 
@@ -69,7 +69,7 @@ I'm a passionate software developer from India who loves building cool stuff and
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:manvendarsinghbohra@gmail.com)](mailto:manvendarsinghbohra@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f8efc?logo=google-chrome&logoColor=white)](https://Mohitbohra18/eportfolio/)
 
----<br>
+<br>
 
 > “Building tech for real-world impact. Let’s connect and create something amazing!”
 
