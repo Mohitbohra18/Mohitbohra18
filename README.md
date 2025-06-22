@@ -41,7 +41,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-bohra-b30a21251/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Mohitbohra18)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manvendarsinghbohra@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3f8efc?logo=google-chrome&logoColor=white)](https://your-github-username.github.io/your-portfolio-repo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3f8efc?logo=google-chrome&logoColor=white)]([https://mohitbohra18.github.io/eportfolio])
 
 ---
 
