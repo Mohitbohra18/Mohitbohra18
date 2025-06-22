@@ -1,7 +1,9 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+MOHIT+BOHRA.;Welcome+to+my+GitHub+profile!;Building+tech+for+real-world+impact.&center=true&size=30&color=F7A8B8" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+MOHIT+BOHRA.;
+      Welcome+to+my+GitHub+profile!;
+      Building+tech+for+real-world+impact.&center=false&size=30&color=F7A8B8" />
   </a>
 </p>
 
@@ -58,10 +60,6 @@ I'm a passionate software developer from India who loves building cool stuff and
 
 ---
 
-<img align="left" src="https://profile-counter.glitch.me/Mohitbohra18/count.svg?" />
-
-<br>
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-bohra-b30a21251/)](https://www.linkedin.com/in/mohit-bohra-b30a21251/)
@@ -69,7 +67,7 @@ I'm a passionate software developer from India who loves building cool stuff and
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:manvendarsinghbohra@gmail.com)](mailto:manvendarsinghbohra@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3f8efc?logo=google-chrome&logoColor=white)](https://Mohitbohra18/eportfolio/)
 
-<br>
+---
 
 > “Building tech for real-world impact. Let’s connect and create something amazing!”
 
