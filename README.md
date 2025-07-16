@@ -8,7 +8,7 @@
 
 I'm a passionate software developer from India who loves building cool stuff and solving real-world problems.
 
-- 🎓 3rd Year B.Tech CSE @ Graphic Era Hill University, Dehradun
+- 🎓 4th Year B.Tech CSE @ Graphic Era Hill University, Dehradun
 - 💡 Passionate about building tech that bridges the gap between learning and real-world impact
 - 🧑‍💻 Full-stack developer, AI/ML enthusiast, and cybersecurity explorer
 - 🏆 Researcher, event organizer, and NSS B & C certificate holder
