@@ -98,10 +98,14 @@ something you're building — I'm open to it.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohitbohra18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitbohra18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitbohra18&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohitbohra18&layout=compact&theme=radical&hide_border=true" />
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohitbohra18&theme=react-dark)]
+
+<img src="https://streak-stats.demolab.com?user=Mohitbohra18&theme=radical&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mohitbohra18&theme=radical&no-frame=true&margin-w=15" />
 </div>
 
 <br>
