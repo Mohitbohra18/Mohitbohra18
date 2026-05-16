@@ -1,71 +1,119 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+Techies!+👋;I'm+MOHIT+BOHRA.;&center=true&size=30&color=F7A8B8""> 
-  </a>
 
-# 👋 Hi there, I'm Mohit Bohra!
 
-## 🚀 About Me
+<div align="center">
 
-I'm a passionate software developer from India who loves building cool stuff and solving real-world problems.
+# Mohit Bohra
 
-- 🎓 4th Year B.Tech CSE @ Graphic Era Hill University, Dehradun
-- 💡 Passionate about building tech that bridges the gap between learning and real-world impact
-- 🧑‍💻 Full-stack developer, AI/ML enthusiast, and cybersecurity explorer
-- 🏆 Researcher, event organizer, and NSS B & C certificate holder
-- 💬 Ask me about: Web dev, Python, Java, C++, ML, and event management
-- ⚡ Fun fact: I love to code with music and coffee!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohit-bohra-b30a21251/)
+**Full-Stack Developer · MERN Stack · AI/ML Explorer**
 
----
+*I build web apps that work — clean, fast, and built for real users.*
 
-## 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-bohra-b30a21251/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](YOUR_FIXED_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manvendarsinghbohra@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohitbohra18)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" alt="c++ logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="java logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="js logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="html5 logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="css3 logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="28" alt="flask logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="mysql logo" />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git logo" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## Who I Am
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohitbohra18&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitbohra18&layout=compact&theme=radical" height="165"/>
-</p>
+4th-year CSE student at Graphic Era Hill University, Dehradun — but I've been shipping
+real projects, not just assignments.
 
----
+I specialize in **full-stack web development with the MERN stack**, and I'm actively
+moving into **AI/ML and LLM-powered applications**. I care about writing code that
+actually solves something, not just code that compiles.
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohit-bohra-b30a21251/)](https://www.linkedin.com/in/mohit-bohra-b30a21251/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/Mohitbohra18)](https://github.com/Mohitbohra18)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:manvendarsinghbohra@gmail.com)](mailto:manvendarsinghbohra@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-3f8efc?logo=google-chrome&logoColor=white)](https://Mohitbohra18/eportfolio/)
+Currently open to: **SDE internships / full-time roles · Remote work · Freelance projects**
 
 ---
 
-> “Building tech for real-world impact. Let’s connect and create something amazing!”
+## 🛠️ What I Work With
+
+**Core Stack**
+`MongoDB` `Express.js` `React` `Node.js`
+
+**Languages**
+`JavaScript` `Python` `C++` `Java`
+
+**AI / ML**
+`TensorFlow` `scikit-learn` `Pandas` `NumPy` `OpenAI API`
+
+**Tools & Infra**
+`Git` `REST APIs` `MySQL` `Flask` `Postman`
+
+> I go deep on MERN. The rest I use when the problem demands it.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mohitbohra18&color=blue)
+## 🚀 Projects That Matter
+
+### 🤖 [AI Interview Assistant](https://github.com/Mohitbohra18/AI_Interview-Assistant)
+An AI-powered mock interview tool that generates role-specific questions and evaluates answers in real time.
+Built with **React + Node.js + OpenAI API**.
+> *Real use case: helps job seekers prep smarter, not longer.*
+
+---
+
+### ✅ [Task Manager](https://github.com/Mohitbohra18/Task-Manager)
+Full-stack task management app with auth, CRUD, and a clean UI.
+Built with **MERN Stack**.
+> *More than a tutorial — built with proper auth flow and state management.*
+
+---
+
+### 📊 [MGNREGA Dashboard](https://github.com/Mohitbohra18/Mgnerega-Dashboard)
+Data visualization dashboard for India's largest rural employment scheme.
+Built with **React + data APIs**.
+> *Civic tech that makes government data readable for real people.*
+
+---
+
+### ⚙️ [Transpiler: Markdown → HTML](https://github.com/Mohitbohra18/Transpiler-mdHTML-)
+A custom-built transpiler that converts Markdown syntax to valid HTML.
+Built in **Python/JavaScript**.
+> *Compiler design applied to a practical problem — not just theory.*
+
+---
+
+## 📌 Currently Working On
+
+- Deepening my ML/DL foundations — CNNs, LLMs, fine-tuning
+- Building an AI-integrated full-stack project for my portfolio
+- DSA practice for technical interview rounds
+
+---
+
+## Let's Talk
+
+Whether you're hiring, have a freelance project, or just want to geek out about
+something you're building — I'm open to it.
+
+📬 **manvendarsinghbohra@gmail.com**
+💼 **[LinkedIn](https://www.linkedin.com/in/mohit-bohra-b30a21251/)**
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohitbohra18&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitbohra18&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+<i>"I don't just learn tech — I build with it."</i>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mohitbohra18&color=blue" />
+
+</div>
