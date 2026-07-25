@@ -86,29 +86,80 @@ Currently I'm focused on combining modern web technologies with Artificial Intel
 
 <div align="center">
 
-### Languages
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,python"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma"/>
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white)
+
+---
+
+## ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+---
+
+## 🗄️ Database & ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 🤖 AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+</div>
 
 # 03 / CURRENT FOCUS
 
@@ -280,19 +331,10 @@ A custom transpiler that converts Markdown syntax into valid HTML using compiler
 
 </div>
 
----
-
-# 07 / ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohitbohra18&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
 
 ---
 
-# 08 / CURRENTLY BUILDING
+# 07 / CURRENTLY BUILDING
 
 ```text
 🚀 AI Powered SaaS Applications
@@ -308,11 +350,10 @@ A custom transpiler that converts Markdown syntax into valid HTML using compiler
 
 ---
 
-# 09 / 2026 ROADMAP
+# 08 / 2026 ROADMAP
 
-- ✅ Become an exceptional MERN Engineer
 - 🤖 Ship multiple AI-powered products
-- ☁ Learn Cloud & System Design
+- ☁ Agentic AI & System Design
 - 📈 Contribute consistently to Open Source
 - 💼 Land a Software Engineering role
 
@@ -322,42 +363,15 @@ A custom transpiler that converts Markdown syntax into valid HTML using compiler
 
 
 
-# 10 / FUN FACTS
 
-```yaml
-name: Mohit Bohra
-
-code:
-  - JavaScript
-  - Python
-  - C++
-
-currently_learning:
-  - Machine Learning
-  - Deep Learning
-  - LLM Engineering
-  - System Design
-
-interests:
-  - Artificial Intelligence
-  - Backend Development
-  - Open Source
-  - UI Engineering
-
-goal:
-  Build software that creates real impact.
-```
-
----
-
-# 11 / DEVELOPMENT PHILOSOPHY
+# 9 / DEVELOPMENT PHILOSOPHY
 
 > **Good software isn't measured by lines of code.  
 > It's measured by the problems it solves.**
 
 ---
 
-# 12 / PROFILE METRICS
+# 10 / PROFILE METRICS
 
 <div align="center">
 
@@ -373,7 +387,7 @@ goal:
 
 ---
 
-# 13 / CONNECT
+# 11 / CONNECT
 
 <div align="center">
 
@@ -402,15 +416,18 @@ I'm always open to discussing
 </a>
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohitbohra18&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+</div>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## Thanks for stopping by.
 
 ### Keep Building. Keep Learning.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-<img src="https://komarev.com/ghpvc/?username=Mohitbohra18&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/> -->
+
+<!-- </div> -->
