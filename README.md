@@ -169,8 +169,6 @@ Currently I'm focused on combining modern web technologies with Artificial Intel
 - 🌍 Contributing to Open Source
 - 💼 Preparing for Software Engineering roles
 
----
-
 # 04 / SELECTED WORK
 
 <div align="center">
@@ -181,118 +179,66 @@ Currently I'm focused on combining modern web technologies with Artificial Intel
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🤖 AI Interview Assistant
+### 👁️ VisionScribe
 
-An AI-powered interview platform that generates role-specific questions, evaluates answers, and provides intelligent feedback.
+An AI-powered image captioning application that generates context-aware and accessibility-focused captions using Transformer-based deep learning models and modern computer vision techniques.
 
 **Built With**
 
 `React`
 `Node.js`
-`OpenAI API`
-`MongoDB`
+`Python`
+`Transformers`
+`PyTorch`
+`Deep Learning`
 
 **Highlights**
 
-- AI generated interview questions
-- Real-time evaluation
-- Modern responsive UI
-- Authentication
+- Transformer-based image caption generation
+- Deep Learning & Computer Vision
+- Context-aware captioning
+- Accessibility-focused outputs
+- Modern responsive interface
+
+<br>
+
+<a href="https://github.com/Mohitbohra18/VisionScribe">
+<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI Interview Assistant
+
+An end-to-end AI interview platform that conducts voice-based interviews, transcribes responses, evaluates answers using LLMs, and provides intelligent, personalized feedback.
+
+**Built With**
+
+`React`
+`Node.js`
+`MongoDB`
+`Whisper AI`
+`DeepSeek API`
+`Ollama`
+`LLMs`
+
+**Highlights**
+
+- Voice-to-text using Whisper AI
+- AI-powered interview generation
+- LLM-based answer evaluation
+- DeepSeek API integration
+- Local inference with Ollama
+- Personalized interview feedback
 
 <br>
 
 <a href="https://github.com/Mohitbohra18/AI_Interview-Assistant">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### 📊 MGNREGA Dashboard
-
-A modern analytics dashboard that transforms public government datasets into interactive visualizations.
-
-**Built With**
-
-`React`
-`REST API`
-`Charts`
-
-**Highlights**
-
-- Data Visualization
-- Interactive Dashboard
-- Responsive Design
-- Civic Tech
-
-<br>
-
-<a href="https://github.com/Mohitbohra18/Mgnerega-Dashboard">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-
-<td width="50%">
-
-### ✅ Task Manager
-
-A complete MERN productivity application featuring secure authentication and CRUD functionality.
-
-**Built With**
-
-`MongoDB`
-`Express`
-`React`
-`Node`
-
-**Highlights**
-
-- JWT Authentication
-- CRUD Operations
-- REST APIs
-- Clean UI
-
-<br>
-
-<a href="https://github.com/Mohitbohra18/Task-Manager">
-<img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚙ Markdown → HTML
-
-A custom transpiler that converts Markdown syntax into valid HTML using compiler concepts.
-
-**Built With**
-
-`Python`
-`JavaScript`
-
-**Highlights**
-
-- Parser
-- Tokenizer
-- HTML Generator
-- Compiler Logic
-
-<br>
-
-<a href="https://github.com/Mohitbohra18/Transpiler-mdHTML-">
 <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge"/>
 </a>
 
@@ -399,23 +345,7 @@ I'm always open to discussing
 
 <br>
 
-<a href="mailto:manvendarsinghbohra@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/mohit-bohra-b30a21251/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://portfolio-ashy-phi-51.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Mohitbohra18">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohitbohra18&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 </div>
